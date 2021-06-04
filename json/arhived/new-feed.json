@@ -1,0 +1,205 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "contents": [
+            {
+              "type": "text",
+              "text": "ร้านอาหารรอบศิริราช",
+              "weight": "bold",
+              "color": "#AAAAAA"
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://scontent.fbkk12-4.fna.fbcdn.net/v/t31.0-8/20286768_712249465629054_5660057732552797478_o.jpg?_nc_cat=103&_nc_sid=e007fa&_nc_eui2=AeG0lUwlS1ZXztKzDrr4AWP8OEbafAG_6xE4Rtp8Ab_rEUP5LTsePx9RQmwPilS9-RIl8r8bd20hNcpmorQYRYGF&_nc_ohc=LGfjmqjLb4cAX9nDYS_&_nc_ht=scontent.fbkk12-4.fna&oh=6ab2901fe9abbce9138e603698af866a&oe=5EE86A16",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "รีวิวร้านและช่องทางการสั่งอาหาร",
+              "size": "lg",
+              "align": "start",
+              "weight": "bold",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "pending",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "bold",
+                  "color": "#FF0000",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "review",
+                "uri": "https://www.facebook.com/sistudent.smsu/"
+              },
+              "color": "#C6C6C6",
+              "style": "primary"
+            },
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "contact",
+                "uri": "https://linecorp.com"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "text",
+              "text": "UPCOMING EVENT",
+              "size": "sm",
+              "weight": "bold",
+              "color": "#AAAAAA"
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.15752-9/96791597_595087661364853_6041786458707066880_n.jpg?_nc_cat=104&_nc_sid=b96e70&_nc_eui2=AeGr18BvfY6HuIIhh7vw-r7f1YMLvE5N6yHVgwu8Tk3rIS_Xzp5hVXLSLOn20zkI3H6QwMjuqyauZWmhP57Hy4cs&_nc_ohc=MnLXsacQAZ0AX_PsfmW&_nc_ht=scontent.fbkk12-2.fna&oh=4bae445949d25cc9cae2700f137c43a8&oe=5EE878EF",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover",
+          "action": {
+            "type": "uri",
+            "label": "Action",
+            "uri": "https://linecorp.com/"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "horizontal",
+          "spacing": "md",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "flex": 1,
+              "contents": [
+                {
+                  "type": "image",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/02_1_news_thumbnail_1.png",
+                  "gravity": "bottom",
+                  "size": "sm",
+                  "aspectRatio": "4:3",
+                  "aspectMode": "cover"
+                },
+                {
+                  "type": "image",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/02_1_news_thumbnail_2.png",
+                  "margin": "md",
+                  "align": "start",
+                  "gravity": "center",
+                  "size": "sm",
+                  "aspectRatio": "4:3",
+                  "aspectMode": "cover"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "flex": 2,
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "10/5/63 กิจกรรมA",
+                  "flex": 1,
+                  "size": "xs",
+                  "gravity": "top"
+                },
+                {
+                  "type": "separator"
+                },
+                {
+                  "type": "text",
+                  "text": "15/5/63 กิจกรรมB",
+                  "flex": 2,
+                  "size": "xs",
+                  "gravity": "center"
+                },
+                {
+                  "type": "separator"
+                },
+                {
+                  "type": "text",
+                  "text": "23/5/63 กิจกรรมC",
+                  "flex": 2,
+                  "size": "xs",
+                  "gravity": "center"
+                },
+                {
+                  "type": "separator"
+                },
+                {
+                  "type": "text",
+                  "text": "28/5/63 กิจกรรมD",
+                  "flex": 1,
+                  "size": "xs",
+                  "gravity": "bottom"
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "More",
+                "uri": "https://www.facebook.com/sistudent.smsu/"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

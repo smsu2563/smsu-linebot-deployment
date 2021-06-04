@@ -1,0 +1,26 @@
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "uri",
+        "label": "คู่มือทำโครงการ",
+        "uri": "https://drive.google.com/drive/mobile/folders/1ow1qT0fWf8NMhnKXlp-Ui8WNbNXOI0EX?usp=sharing"
+      },
+      {
+        "type": "uri",
+        "label": "ยืมเงิน",
+        "uri": "https://forms.gle/rHd6HHjpHvtLU7SV8"
+      },
+      {
+        "type": "uri",
+        "label": "ติดตามจดหมาย",
+        "uri": "https://docs.google.com/spreadsheets/d/1mRfgIrQgl-PjlV5Lf1mqrSbDlmVJwaRLZBCtGJqR1Yo/edit?usp=sharing"
+      }
+    ],
+    "title": "โครงการ",
+    "text": "คุณต้องการทำอะไร"
+  }
+}
