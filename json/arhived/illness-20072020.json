@@ -1,0 +1,21 @@
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "message",
+        "label": "กาย",
+        "text": "กาย"
+      },
+      {
+        "type": "message",
+        "label": "ใจ",
+        "text": "ใจ"
+      }
+    ],
+    "title": "ป่วยกาย-ไม่สบายใจ",
+    "text": "คุณความไม่สะดวกสบายด้านใด"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://www.facebook.com/photo/?fbid=10157296394692076&set=a.10151756111457076&__cft__[0]=AZUnXpFDfRHRZQ5mwHDL5ubXwClsKbAI8GaXghkGVJLBtq3wNkPX-BCoKYQJUJFvinAp-2HAYidO_OSKhlvVnPetL-im2YEF-B1BftdybsIYCMMWg_opamZcBXkZS-79zvSNxUVc8V3rdbCZLOWMcYfqw3AGIfy0NS8EJkwRfCd_iA&__tn__=EH-R",
+          "size": "full",
+          "aspectRatio": "3:4",
+          "aspectMode": "cover"
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://www.facebook.com/photo/?fbid=10157296394692076&set=a.10151756111457076&__cft__[0]=AZUnXpFDfRHRZQ5mwHDL5ubXwClsKbAI8GaXghkGVJLBtq3wNkPX-BCoKYQJUJFvinAp-2HAYidO_OSKhlvVnPetL-im2YEF-B1BftdybsIYCMMWg_opamZcBXkZS-79zvSNxUVc8V3rdbCZLOWMcYfqw3AGIfy0NS8EJkwRfCd_iA&__tn__=EH-R",
+          "size": "full",
+          "aspectRatio": "3:4",
+          "aspectMode": "cover"
+        }
+      }
+    ]
+  }
+}
