@@ -28,7 +28,7 @@ const work_in_progress = require(PATH + "work-in-progress.json");
 module.exports = (req, res) => {
 	//console.log(req.body)
 	if (req.method === "POST") {
-		if (req.body.events[0].message.type == 'postback') {
+		if (req.body.events[0].type == "postback") {
 			handle_postback(req,res)
 		}
 		return res.status(200).send(`Get`);
