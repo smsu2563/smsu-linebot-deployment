@@ -1,6 +1,6 @@
 {
   "type": "template",
-  "altText": "this is a buttons template",
+  "altText": "โครงการ",
   "template": {
     "type": "buttons",
     "actions": [

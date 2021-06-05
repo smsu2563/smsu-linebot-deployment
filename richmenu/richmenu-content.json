@@ -1,0 +1,86 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "Rich Menu",
+  "chatBarText": "SMSU-Menu",
+  "areas": [
+    {
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 828,
+        "height": 836
+      },
+      "action": {
+        "type": "postback",
+        "text": "",
+        "data": "aboutus-main"
+      }
+    },
+    {
+      "bounds": {
+        "x": 838,
+        "y": 0,
+        "width": 828,
+        "height": 836
+      },
+      "action": {
+        "type": "uri",
+        "uri": "https://forms.gle/JdFPiWp6XUeYsD1U6"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1672,
+        "y": 0,
+        "width": 828,
+        "height": 836
+      },
+      "action": {
+        "type": "postback",
+        "text": "",
+        "data": "PR"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1672,
+        "y": 850,
+        "width": 828,
+        "height": 836
+      },
+      "action": {
+        "type": "uri",
+        "uri": "https://clubs.smsusiriraj.com"
+      }
+    },
+    {
+      "bounds": {
+        "x": 836,
+        "y": 850,
+        "width": 828,
+        "height": 836
+      },
+      "action": {
+        "type": "postback",
+        "text": "",
+        "data": "acitivity"
+      }
+    },
+    {
+      "bounds": {
+        "x": 0,
+        "y": 850,
+        "width": 828,
+        "height": 836
+      },
+      "action": {
+        "type": "uri",
+        "uri": "https://booking.smsusiriraj.com"
+      }
+    }
+  ]
+}
