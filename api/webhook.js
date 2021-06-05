@@ -1,10 +1,6 @@
 //import required library
 const fetch = require('node-fetch');
 
-//import env
-const dotenv = require('dotenv');
-dotenv.config();
-
 //declare path of json template
 const PATH = "../json/";
 
