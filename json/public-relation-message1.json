@@ -1,0 +1,178 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "การฝากข่าวประชาสัมพันธ์",
+          "size": "lg",
+          "weight": "bold",
+          "color": "#000000"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "margin": "lg",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "ให้ส่งข้อมูลที่ต้องการประชาสัมพันธ์มาที่",
+                  "size": "sm",
+                  "color": "#494949"
+                },
+                {
+                  "type": "text",
+                  "text": "Line ID : somsom43... (ส้ม SI130)",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#494949",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "(ตาม contact ที่แนบไว้ด้านล่าง)",
+                  "size": "sm",
+                  "color": "#494949"
+                },
+                {
+                  "type": "spacer"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "โดยข้อมูลที่ต้องแจ้งมีดังนี้",
+                  "size": "sm",
+                  "color": "#494949"
+                },
+                {
+                  "type": "text",
+                  "text": "1. ส่วนงานต้นสังกัดของประกาศ",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#494949",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "2. ระดับชั้นที่ต้องการประสาสัมพันธ์",
+                  "size": "sm",
+                  "color": "#494949"
+                },
+                {
+                  "type": "text",
+                  "text": "3. วันและเวลาที่ต้องการลงประกาศ",
+                  "size": "sm",
+                  "color": "#494949"
+                },
+                {
+                  "type": "text",
+                  "text": "4. หมายเหตุเพิ่มเติมอื่นๆ เช่น ต้องการลงแคปชั่นก่อนรูป",
+                  "size": "sm",
+                  "color": "#494949",
+                  "wrap": true
+                },
+                {
+                  "type": "spacer"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": [
+                {
+                  "type": "icon",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "size": "sm"
+                },
+                {
+                  "type": "text",
+                  "text": "ข่าว 1 ดาว ประชาสัมพันธ์ทาง line official ของสพศ.",
+                  "flex": 0,
+                  "margin": "md",
+                  "size": "sm",
+                  "color": "#494949",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": [
+                {
+                  "type": "icon",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "size": "sm"
+                },
+                {
+                  "type": "icon",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "size": "sm"
+                },
+                {
+                  "type": "text",
+                  "text": "ข่าว 2,3 ดาว ประชาสัมพันธ์ผ่านทางไลน์รุ่นแต่ละชั้นปี",
+                  "flex": 0,
+                  "margin": "md",
+                  "size": "sm",
+                  "color": "#494949",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "flex": 0,
+      "spacing": "sm",
+      "contents": [
+        {
+          "type": "button",
+          "action": {
+            "type": "uri",
+            "label": "Contact",
+            "uri": "https://line.me/R/ti/p/somsom43..."
+          },
+          "height": "sm",
+          "style": "link"
+        }
+      ]
+    },
+    "styles": {
+      "footer": {
+        "backgroundColor": "#FFFFFF",
+        "separator": true
+      }
+    }
+  }
+}

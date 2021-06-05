@@ -1,0 +1,75 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "spacing": "md",
+      "action": {
+        "type": "uri",
+        "label": "Action",
+        "uri": "https://linecorp.com"
+      },
+      "contents": [
+        {
+          "type": "text",
+          "text": "ปรึกษาได้เลย",
+          "size": "xl",
+          "weight": "bold"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "google form",
+                  "flex": 0,
+                  "margin": "sm",
+                  "weight": "bold"
+                },
+                {
+                  "type": "text",
+                  "text": "link",
+                  "align": "end",
+                  "action": {
+                    "type": "uri",
+                    "label": "link",
+                    "uri": "https://www.si.mahidol.ac.th/th/"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Contact",
+                  "flex": 0,
+                  "margin": "sm",
+                  "weight": "bold"
+                },
+                {
+                  "type": "text",
+                  "text": "@xxxxx",
+                  "size": "sm",
+                  "align": "end",
+                  "color": "#AAAAAA"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

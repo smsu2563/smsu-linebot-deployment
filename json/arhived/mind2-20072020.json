@@ -1,0 +1,33 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "body": {
+      "type": "box",
+      "layout": "horizontal",
+      "contents": [
+        {
+          "type": "image",
+          "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/counseling-center-icon.jpg",
+          "flex": 1,
+          "size": "xs",
+          "action": {
+            "type": "uri",
+            "uri": "https://line.me/R/ti/p/@mnh6806x"
+          }
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "uri",
+            "label": "Counseling center",
+            "uri": "https://line.me/R/ti/p/@mnh6806x"
+          },
+          "flex": 4
+        }
+      ]
+    }
+  }
+}

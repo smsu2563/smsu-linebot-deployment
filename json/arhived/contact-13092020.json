@@ -1,0 +1,817 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/contact/contact-clubs.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "ฝ่ายชมรม",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "อุปนายกฝ่าย",
+                  "flex": 0,
+                  "size": "lg",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": ": องุ่น",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Tel",
+                  "flex": 0,
+                  "size": "lg",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": ": 0859322853",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Line",
+                  "flex": 0,
+                  "size": "lg",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": ": Angunchat",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "เว็บชมรม",
+                "uri": "https://sites.google.com/view/sirirajclubs/home"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/contact/contact-edu-fix.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "ฝ่ายวิชาการ",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "อุปนายกฝ่าย",
+                  "flex": 0,
+                  "size": "lg",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": ": แบงแบง ",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Tel",
+                  "flex": 0,
+                  "size": "lg",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": ":  0824515193",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Line",
+                  "flex": 0,
+                  "size": "lg",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": ": bangbang2508",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "เว็บวิชาการ",
+                "uri": "https://vichakarn.smsusiriraj.com"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/contact/contact-development-fix.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "ฝ่ายพัฒนาบุคคล",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "อุปนายกฝ่าย",
+                  "flex": 0,
+                  "size": "lg",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": ": จุ้ย ",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Tel",
+                  "flex": 0,
+                  "size": "lg",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": ": 0955717515",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Line",
+                  "flex": 0,
+                  "size": "lg",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": ": Juikanin",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/contact/contact-communication-fix.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "ฝ่ายสื่อสารองค์กร",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "อุปนายกฝ่าย",
+                  "flex": 0,
+                  "size": "lg",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": ": ป็อป",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Tel",
+                  "flex": 0,
+                  "size": "lg",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": ": 0863706768",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Line",
+                  "flex": 0,
+                  "size": "lg",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": ": poppapichaya",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "คิว PR ใน Line รุ่น",
+                "uri": "https://docs.google.com/spreadsheets/d/1YnQuvhefmvSR7D4cR7M5Eo3wKIuctBu0DnL6doniHoM/edit"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/contact/contact-sec.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "ฝ่ายเลขานุการ",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "หัวหน้าฝ่าย",
+                  "flex": 0,
+                  "size": "lg",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": ": แปง",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Tel",
+                  "flex": 0,
+                  "size": "lg",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": ": 0971433335",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Line",
+                  "flex": 0,
+                  "size": "lg",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": ":  poom_sk135",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "ลิงค์ทำจดหมาย",
+                "uri": "https://forms.gle/CPpPUPwyvWzHoPn76"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/contact/contact-treasury.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "ฝ่ายจัดสรรทรัพยากร",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "หัวหน้าฝ่าย",
+                  "flex": 0,
+                  "size": "lg",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": ": ไอเดีย",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Tel",
+                  "flex": 0,
+                  "size": "lg",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": ": 0860266680",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Line",
+                  "flex": 0,
+                  "size": "lg",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": ": ideaconan",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "คู่มือสำหรับเหรัญญิก",
+                "uri": "https://drive.google.com/file/d/1PuUDdIjZ-ODjYtmgiFXtfTQZQXbwx35l/view"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/contact/contact-pr.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "ฝ่ายประชาสัมพันธ์",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "หัวหน้าฝ่าย",
+                  "flex": 0,
+                  "size": "lg",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": ": อาร์ต",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Tel",
+                  "flex": 0,
+                  "size": "lg",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": ": 0853530175",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Line",
+                  "flex": 0,
+                  "size": "lg",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": ": Asharee",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/contact/contact-it.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "ฝ่ายไอที",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "หัวหน้าฝ่าย",
+                  "flex": 0,
+                  "size": "lg",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": ": พัชร",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Tel",
+                  "flex": 0,
+                  "size": "lg",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": ": 0826563236",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Line",
+                  "flex": 0,
+                  "size": "lg",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": ": n.pat2205",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

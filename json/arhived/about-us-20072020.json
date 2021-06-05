@@ -1,0 +1,213 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/about-us/aboutus-1.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "ส.พ.ศ. คืออะไร",
+              "size": "xl",
+              "weight": "bold",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "พวกเราคือองค์กร \"ของนักศึกษาแพทย์\" ที่ทำเพื่อตอบสนองความต้องการของนักศึกษาแพทย์",
+                  "flex": 0,
+                  "size": "sm",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "separator"
+                },
+                {
+                  "type": "text",
+                  "text": "จุดเน้นการทำงานของปี 2563 คือ ..."
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "อ่านต่อ",
+                "uri": "https://www.facebook.com/media/set/?set=a.10157456388677076&type=3"
+              },
+              "color": "#00B900",
+              "style": "primary",
+              "gravity": "center"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/about-us/aboutus-2-fix.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "Contact",
+              "size": "lg",
+              "weight": "bold",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "flex": 1,
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "นายก : ",
+                  "flex": 1,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "ชะเอม",
+                  "flex": 1,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "086-698-5113",
+                  "flex": 0,
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "flex": 1,
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "รองนายก : ",
+                  "flex": 1,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "เพชร ",
+                  "flex": 1,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "080-542-3376",
+                  "flex": 0,
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "separator"
+            },
+            {
+              "type": "text",
+              "text": "รวมช่องทางติดต่อฝ่ายต่าง ๆ ของส.พ.ศ.",
+              "size": "sm",
+              "weight": "regular"
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "message",
+                "label": "ดูรายชื่อแยกฝ่าย",
+                "text": "ดูรายชื่อแยกฝ่าย"
+              },
+              "flex": 2,
+              "color": "#00B900",
+              "style": "primary",
+              "gravity": "bottom"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://scontent.fbkk2-7.fna.fbcdn.net/v/t1.0-9/92649068_10157255524527076_7956080604036988928_n.jpg?_nc_cat=108&_nc_sid=85a577&_nc_ohc=FcigTmT1RQYAX_thxcQ&_nc_ht=scontent.fbkk2-7.fna&oh=c9054b38c91e9dbc1e280637853ebc0d&oe=5EE802B1",
+              "size": "full"
+            },
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "See more ...",
+                "uri": "https://www.facebook.com/sistudent.smsu/"
+              },
+              "flex": 1,
+              "gravity": "center"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
