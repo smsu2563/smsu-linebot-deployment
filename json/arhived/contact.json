@@ -1,0 +1,526 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://scontent.fbkk12-4.fna.fbcdn.net/v/t1.15752-9/97793160_2557153161265938_36603863075127296_n.png?_nc_cat=110&_nc_sid=b96e70&_nc_eui2=AeEVV3-NmkjrWwUIYx5ez2tuY-l_pBNVVSZj6X-kE1VVJrihpfQqS4ogZCKr4aZ1MbyCF59ISsmW9Pf4Y8m2XHxU&_nc_ohc=_HfDOBwqVpUAX_whfa7&_nc_ht=scontent.fbkk12-4.fna&oh=3c83f7dd01031e7d368c74e86178d123&oe=5EE78FC4",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "ฝ่ายกิจกรรม",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "อุปนายกฝ่าย :",
+                  "flex": 2,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "น้ำมนต์ ",
+                  "flex": 1,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "0xx-xxx-xxxx",
+                  "flex": 0,
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "รองอุปนายก :",
+                  "flex": 2,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "เบลล์",
+                  "flex": 1,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": " 0xx-xxx-xxxx",
+                  "flex": 0,
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "รองอุปนายก :",
+                  "flex": 2,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "เอินเอิน",
+                  "flex": 1,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "0xx-xxx-xxxx",
+                  "flex": 0,
+                  "align": "end"
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "เผื่อมีลิงก์อยากใส่",
+                "uri": "https://linecorp.com"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.15752-9/97379100_259082472167671_1318246426601324544_n.png?_nc_cat=105&_nc_sid=b96e70&_nc_eui2=AeFWbyhOb-pVDGG5w1eIS0GI35xC0ECGfW7fnELQQIZ9bhPnRlZ8ZmhRmOt_7ehSixvO5tccf6x0H05H3-3MTB6b&_nc_ohc=kycD7pgLKQwAX8tkp5j&_nc_ht=scontent.fbkk12-2.fna&oh=d8469c3dc08ae3503ab2a276157dbe50&oe=5EE7BD78",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "ฝ่ายชมรม",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "อุปนายกฝ่าย :",
+                  "flex": 2,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "องุ่น",
+                  "flex": 1,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": " 0xx-xxx-xxxx",
+                  "flex": 0,
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "รองอุปนายก :",
+                  "flex": 2,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "สไมล์",
+                  "flex": 1,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": " 0xx-xxx-xxxx",
+                  "flex": 0,
+                  "align": "end"
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "เว็บชมรม",
+                "uri": "https://sites.google.com/view/sirirajclubs/home"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://scontent.fbkk8-4.fna.fbcdn.net/v/t31.0-8/28337013_2029464530416965_1852244720437019833_o.jpg?_nc_cat=100&_nc_sid=8024bb&_nc_eui2=AeEcZ1b2azshxVrz-939KFPrfbMKj_mO9cd9swqP-Y71x_VCJmzzuaUIoxadyj0Lqqp-xn_XMHFv0OzERzQuBbfF&_nc_ohc=i52v9IPFrdoAX-00ckz&_nc_ht=scontent.fbkk8-4.fna&oh=608df9a392e83df35de07382e2f4f926&oe=5EE76D37",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "ฝ่ายวิชาการ",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "อุปนายกฝ่าย :",
+                  "flex": 3,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "แบงแบง",
+                  "flex": 2,
+                  "margin": "none",
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": " 0xx-xxx-xxxx",
+                  "flex": 0,
+                  "margin": "none",
+                  "size": "md",
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "รองอุปนายก :",
+                  "flex": 3,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "ฟ้า",
+                  "flex": 2,
+                  "size": "md",
+                  "align": "start",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": " 0xx-xxx-xxxx",
+                  "flex": 0,
+                  "align": "end"
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "เผื่อมีลิงก์อยากใส่",
+                "uri": "https://linecorp.com"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_5_carousel.png",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "ฝ่ายพัฒนาบุคคล",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "อุปนายกฝ่าย :",
+                  "flex": 3,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "จุ้ย",
+                  "flex": 2,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": " 0xx-xxx-xxxx",
+                  "flex": 0,
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "รองอุปนายก :",
+                  "flex": 3,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "เปียโน",
+                  "flex": 2,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": " 0xx-xxx-xxxx",
+                  "flex": 0,
+                  "align": "end"
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "เผื่อมีลิงก์อยากใส่",
+                "uri": "https://linecorp.com"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://image.freepik.com/free-photo/hand-holding-illuminated-light-bulb-with-outline-face-drawn-blackboard-with-idea-text_23-2147874059.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "ฝ่ายสื่อสารองค์กร",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "อุปนายกฝ่าย :",
+                  "flex": 3,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "ไอเดีย",
+                  "flex": 2,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "0xx-xxx-xxxx",
+                  "flex": 0,
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "รองอุปนายก :",
+                  "flex": 3,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "พอ",
+                  "flex": 2,
+                  "size": "md",
+                  "weight": "regular",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "0xx-xxx-xxxx",
+                  "flex": 0,
+                  "align": "end"
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "เผื่อมีลิงก์อยากใส่",
+                "uri": "https://linecorp.com"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

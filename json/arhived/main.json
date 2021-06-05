@@ -1,0 +1,279 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
+          "size": "full",
+          "aspectRatio": "1.91:1",
+          "aspectMode": "cover",
+          "action": {
+            "type": "uri",
+            "label": "Line",
+            "uri": "https://linecorp.com/"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "Who're us",
+              "size": "xl",
+              "weight": "bold"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "---------------------------------------------------",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#AAAAAA"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "___________________________________________________________________________________________________________________________",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "___________________________________________________________________________________________________________________________",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "WEBSITE",
+                "uri": "https://www.si.mahidol.ac.th/"
+              },
+              "height": "sm",
+              "style": "link"
+            },
+            {
+              "type": "spacer",
+              "size": "sm"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "Contact",
+              "size": "xl",
+              "weight": "bold"
+            },
+            {
+              "type": "image",
+              "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
+              "size": "3xl"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "-----",
+                      "size": "lg",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "xxx-xxx-xxxx",
+                      "flex": 4,
+                      "size": "lg",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "-----",
+                      "size": "lg",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "xxx-xxx-xxxx",
+                      "flex": 4,
+                      "size": "lg",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "-----",
+                      "size": "lg",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "xxx-xxx-xxxx",
+                      "flex": 4,
+                      "size": "lg",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "-----",
+                      "size": "lg",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "xxx-xxx-xxxx",
+                      "flex": 4,
+                      "size": "lg",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "-----",
+                      "size": "lg",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "xxx-xxx-xxxx",
+                      "flex": 4,
+                      "size": "lg",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "-----",
+                      "size": "lg",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "xxx-xxx-xxxx",
+                      "flex": 4,
+                      "size": "lg",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "WEBSITE",
+                "uri": "https://www.si.mahidol.ac.th/"
+              },
+              "height": "sm",
+              "style": "link"
+            },
+            {
+              "type": "spacer",
+              "size": "sm"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

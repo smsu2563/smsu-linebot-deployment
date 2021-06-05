@@ -1,0 +1,31 @@
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "uri",
+        "label": "เปิด-ปิดโครงการ",
+        "uri": "https://www.si.mahidol.ac.th/"
+      },
+      {
+        "type": "uri",
+        "label": "ยืมเงิน",
+        "uri": "https://www.si.mahidol.ac.th/"
+      },
+      {
+        "type": "uri",
+        "label": "สรุปงบ",
+        "uri": "https://www.si.mahidol.ac.th/"
+      },
+      {
+        "type": "uri",
+        "label": "ขอสถานที่",
+        "uri": "https://www.si.mahidol.ac.th/"
+      }
+    ],
+    "title": "โครงการ",
+    "text": "คุณต้องการทำอะไร"
+  }
+}
