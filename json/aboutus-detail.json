@@ -1,0 +1,79 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/aboutus/2.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/aboutus/3.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/aboutus/4.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/aboutus/5.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/aboutus/6.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/aboutus/7.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/aboutus/8.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        }
+      }
+    ]
+  }
+}

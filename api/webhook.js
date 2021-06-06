@@ -1,10 +1,6 @@
 //import required library
 const fetch = require('node-fetch');
 
-//import env
-const dotenv = require('dotenv');
-dotenv.config();
-
 //declare path of json template
 const PATH = "../json/";
 
@@ -28,12 +24,12 @@ const work_in_progress = require(PATH + "work-in-progress.json");
 module.exports = (req, res) => {
 	//console.log(req.body)
 	if (req.method === "POST") {
-		if (req.body.events[0].message.type == 'postback') {
-			handle_postback(req,res)
+		if (req.body.events[0].type == "postback") {
+			return handle_postback(req,res)
 		}
-		return res.status(200).send(`Get`);
+		else return res.status(200).send(`Get`);
 	}
-	return res.status(200).send(`Get`);
+	else return res.status(200).send(`Get`);
 };
 
 function handle_postback(req,res){
@@ -43,11 +39,11 @@ function handle_postback(req,res){
 	
     switch (data){
 		
-        case "aboutus-main": reply(token,res,aboutus_main); break;
-        case "aboutus-detail": reply(token,res,aboutus_detail); break;        
-        case "activity": reply(token,res,activity); break;
-        case "PR": reply(token,res,PR); break;
-		default: reply(token,res,work_in_progress); break;
+        case "aboutus-main": return reply(token,res,aboutus_main); break;
+        case "aboutus-detail": return reply(token,res,aboutus_detail); break;        
+        case "activity": return reply(token,res,activity); break;
+        case "PR": return reply(token,res,PR); break;
+		default: return reply(token,res,work_in_progress); break;
 		
     } 
 }
@@ -73,7 +69,7 @@ function reply(reply_token,res,...msgs){
 		
     }).then(() => {
         return res.status(200).send(`Done`);
-
+		
     }).catch((error) => {
 		console.log(error);
         return res.status(500).send(error);
