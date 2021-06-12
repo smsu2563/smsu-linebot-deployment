@@ -11,7 +11,11 @@
           "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/aboutus/2.jpg",
           "size": "full",
           "aspectRatio": "20:13",
-          "aspectMode": "cover"
+          "aspectMode": "cover",
+          "action": {
+            "type": "uri",
+            "uri": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/aboutus/2.jpg"
+          }
         }
       },
       {
@@ -21,7 +25,11 @@
           "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/aboutus/3.jpg",
           "size": "full",
           "aspectRatio": "20:13",
-          "aspectMode": "cover"
+          "aspectMode": "cover",
+          "action": {
+            "type": "uri",
+            "uri": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/aboutus/3.jpg"
+          }
         }
       },
       {
@@ -31,7 +39,11 @@
           "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/aboutus/4.jpg",
           "size": "full",
           "aspectRatio": "20:13",
-          "aspectMode": "cover"
+          "aspectMode": "cover",
+          "action": {
+            "type": "uri",
+            "uri": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/aboutus/4.jpg"
+          }
         }
       },
       {
@@ -41,7 +53,11 @@
           "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/aboutus/5.jpg",
           "size": "full",
           "aspectRatio": "20:13",
-          "aspectMode": "cover"
+          "aspectMode": "cover",
+          "action": {
+            "type": "uri",
+            "uri": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/aboutus/5.jpg"
+          }
         }
       },
       {
@@ -51,7 +67,11 @@
           "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/aboutus/6.jpg",
           "size": "full",
           "aspectRatio": "20:13",
-          "aspectMode": "cover"
+          "aspectMode": "cover",
+          "action": {
+            "type": "uri",
+            "uri": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/aboutus/6.jpg"
+          }
         }
       },
       {
@@ -61,7 +81,11 @@
           "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/aboutus/7.jpg",
           "size": "full",
           "aspectRatio": "20:13",
-          "aspectMode": "cover"
+          "aspectMode": "cover",
+          "action": {
+            "type": "uri",
+            "uri": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/aboutus/7.jpg"
+          }
         }
       },
       {
@@ -71,7 +95,11 @@
           "url": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/aboutus/8.jpg",
           "size": "full",
           "aspectRatio": "20:13",
-          "aspectMode": "cover"
+          "aspectMode": "cover",
+          "action": {
+            "type": "uri",
+            "uri": "https://storage.googleapis.com/smsu-bot-beta-yebjlj.appspot.com/aboutus/8.jpg"
+          }
         }
       }
     ]

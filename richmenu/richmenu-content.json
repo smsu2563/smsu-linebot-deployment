@@ -67,7 +67,7 @@
       "action": {
         "type": "postback",
         "text": "",
-        "data": "acitivity"
+        "data": "activity"
       }
     },
     {
